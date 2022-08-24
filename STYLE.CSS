@@ -1,0 +1,15 @@
+h1{
+    color: red !important;
+    background-color: yellow;
+}
+
+.SubTitulo {
+    color: rgb(241, 241, 4);
+    background-color: blueviolet;
+}
+
+
+.Titulo {
+    color: purple;
+    background-color: yellow;
+}
